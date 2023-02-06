@@ -1,0 +1,11 @@
+graph {
+0 -- 1[color=red,penwidth=3.0];
+0 -- 2;
+0 -- 3;
+0;
+1 -- 2[color=red,penwidth=3.0];
+1;
+2 -- 3;
+2;
+3;
+}
